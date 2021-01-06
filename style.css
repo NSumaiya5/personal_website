@@ -1,0 +1,216 @@
+*{margin:0;padding: 0;}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+section{
+    height: 750px;
+    padding-bottom:100px;
+}
+
+
+.text-color{
+    color: indigo;
+}
+
+.nav{
+    height: 1px; 
+    background-color: rgb(248, 197, 197);
+
+}
+.nav ul{
+    text-align: right;
+}
+.nav li{
+    display: inline-block;
+    padding-right: 3%;
+    height: 10px;
+    margin-top: 15px;
+
+}
+p{
+    font-Size:16px;
+    color: dimgray;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+
+h1{
+    font-size: 50px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 700;
+    margin: 0;
+
+}
+
+.top_banner{
+    height: 500px;
+    background-color: lavender;
+    
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, #e08c8c,#d10404);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+
+.half img{
+    width: 100%;
+}
+
+
+
+.about{
+    height: 500px;
+   background-color: rgb(230, 225, 185);
+}
+
+.double{
+    margin-top: 8%;
+}
+
+.work-section{
+   height: 500px;
+   background-color: rgb(233, 146, 204);
+}
+
+.work-section h1{
+    
+    padding-bottom: 5%;
+    text-align: center;
+    padding-top:5%;
+}
+
+.box{
+    width: 25%;
+    margin:1% 2.1% ;
+    padding: 1% 2% ;
+    float: left;
+    box-shadow: 10px 10px 40px rgb(179, 176, 176);
+    border-radius: 10px;
+    height: 65%;
+    background-color: white;
+  
+}
+
+.box img{
+    width: 100%;   
+}
+
+
+.special{
+    height: 500px;
+    background-color: rgb(240, 241, 241);
+}
+
+
+.newone
+{	color: rgb(243, 186, 79);
+
+    }
+    
+
+.spec{
+
+	width: 20%;
+    height:20%;
+    margin:auto ; 
+  
+}
+
+
+.spec h2{
+    padding-top: 10%;
+    font-size: 30px;
+    color: rgb(83, 2, 104);
+    font-weight: 800;
+}
+
+.makeit{
+	width: 25%;
+    margin: 1% 2%;
+    padding: 1% 2%;
+    float: left;
+    border-radius: 10px;
+    height: 60%;
+    background-color:  rgba(238, 207, 182, 0.256);
+    box-shadow: 5px 5px 40px rgb(35, 20, 32);
+    text-align: center;
+}
+
+.makeit a{
+	text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    background: #70646a;
+    color: white;
+    font-size: 20px;
+}
+.makeit a:hover{
+    color: lightsteelblue;
+}
+
+
+.makeit h3{
+	font-size: 30px;
+	color:  #856ae6;
+}
+
+.makeit p{
+	color:#343D46;
+}
+
+.work-inquiry{
+    background-image: url("image/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-size: 800px 200px;
+    background-position: center;
+    height: 400px;
+    background-color: rgb(240, 186, 219);
+   
+
+}
+
+.work1{
+    width: 30%;
+    float: left;
+   display: block;
+    margin-left: 26%;
+    margin-top: 16%;
+ 
+}
+.work1 h1{
+    color:white;
+
+}
+.work2{
+   width:30%;
+   display: block;
+   float:right;
+   margin-right:2%;
+  margin-top: 18%;
+   
+}
+footer{
+    height: 100px;
+    text-align: center;
+    background-color: rgb(247, 132, 78);
+    padding-top:3%;
+}
+footer img{
+    width: 25px;
+    padding:8px;
+}
